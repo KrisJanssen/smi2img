@@ -1,0 +1,6 @@
+name: chem_bot
+channels:
+    - rdkit
+dependencies:
+    - python=3.5.3
+    - rdkit=2016.09.4
